@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./qr code screenshot.jpg)
+![blue and white qr code with text underneath it](/qr code screenshot.jpg)
 
 ### Links
 
