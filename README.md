@@ -1,12 +1,12 @@
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-I'm not including a link because the screenshot represent all there is to it.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -18,6 +18,9 @@ I'm not including a link because the screenshot represent all there is to it.
 ### Screenshot
 
 ![qrcode](screenshot.jpg)
+
+##Link
+-Live Site URL: (https://tungstic.github.io/QR-Code-Challenge-for-Frontend-Mentor/)
 
 ## My process
 
