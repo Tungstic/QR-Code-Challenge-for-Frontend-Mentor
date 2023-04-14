@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![qrcode](screenshot.jpg)
 
-###Link
+### Link
 
 Live Site URL: (https://tungstic.github.io/QR-Code-Challenge-for-Frontend-Mentor/)
 
